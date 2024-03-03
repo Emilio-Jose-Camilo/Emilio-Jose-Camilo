@@ -7,8 +7,8 @@
 
 ![Emilio GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilio-Jose-Camilo&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no meu dia a dia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emilio-Jose-Camilo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+## Tecnologias que uso no meu dia a dia
 
 <div style="dislay: inline_block"> <br />
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,4 +20,4 @@
     <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 <br/>
-“Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler
+Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.
